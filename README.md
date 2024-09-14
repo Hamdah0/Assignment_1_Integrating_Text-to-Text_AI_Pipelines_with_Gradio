@@ -5,6 +5,10 @@ I choose an NER model to complete this assignment, simply, my project is to impl
 1-the text with a red highlight on the entities, along with their types.
 2-A dataframe of the text showing the entities, their types, confidence scores, start positions, end positions and the whole text.
 
-The Hugging Face link to the assignment:
+The Hugging Face space link to the assignment:
 https://huggingface.co/spaces/hamdah926/NER_model_with_gradio?logs=container
 
+A video recorder explaining the final code:
+
+
+[![YouTube](http://i.ytimg.com/vi/anN_kE1QYDM/hqdefault.jpg)](https://www.youtube.com/watch?v=anN_kE1QYDM)
